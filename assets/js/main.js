@@ -4,6 +4,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+// Mudar página
+function Logar(){
+	window.location.assign("index.html");
+}
+
+
 (function() {
 
 	"use strict";
