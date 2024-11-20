@@ -115,7 +115,27 @@
 
 /*** Topbar End ***/
 
+/* Minhas alterações */
+body{
+    background-color: black;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
 
+
+.text-color{
+    color: #DDDDDD;
+}
+.bgfooter{
+    background-color: rgb(0, 0, 0);
+}
+#l{
+    color: white; 
+}
+#btn-mes:hover{
+    background-color: #101615;
+    box-shadow: 2px 2px 3px black;
+}
 
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
@@ -867,7 +887,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: var(--bs-secondary);
+    background: #0c1316;
 }
 
 .footer .footer-item {
