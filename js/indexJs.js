@@ -42,12 +42,12 @@ function Logar(){
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg07.jpg': 'center',
-							'images/bg04.jpg': 'center',
-							'images/bg08.jpg': 'center',
-							'images/bg03.jpg': 'center',
-							'images/bg09.jpg': 'center',
-							'images/bg10.jpg': 'center'
+							'img/bg07.jpg': 'center',
+							'img/bg04.jpg': 'center',
+							'img/bg08.jpg': 'center',
+							'img/bg03.jpg': 'center',
+							'img/bg09.jpg': 'center',
+							'img/bg10.jpg': 'center'
 						},
 
 					// Delay.
