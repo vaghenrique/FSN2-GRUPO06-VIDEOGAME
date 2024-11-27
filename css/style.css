@@ -2640,7 +2640,7 @@ h1{
 
 /*** Footer Start ***/
 .footer {
-    background: var(--bs-secondary);
+    background: #0c1316;
 }
 
 .footer .footer-item {
